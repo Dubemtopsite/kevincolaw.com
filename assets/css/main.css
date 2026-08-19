@@ -237,7 +237,7 @@ h6 {
 }
 
 .header.scrolled .logo img {
-    content: url('img/logo_black.html');
+    content: url('../../img/logo_black.png');
     /* Dark logo when scrolled */
 }
 
@@ -302,7 +302,7 @@ h6 {
 }
 
 .header.scrolled .logo img {
-    content: url('img/logo_black.html');
+    content: url('../../img/logo_black.png');
     /* Dark logo when scrolled */
 }
 
